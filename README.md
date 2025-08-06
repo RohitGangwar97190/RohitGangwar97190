@@ -66,7 +66,7 @@ I'm always open for collaborations, opportunities, or just a friendly chat. Feel
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter" style="margin: 10px; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2); transition: transform 0.3s ease;" />
   </a> -->
   <a href="mailto:rohitgangwar971912@gmail.com" target="_blank" title="Gmail">
-    <img src="https://img.shields.io/badge/-yash25578@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" style="margin: 10px; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2); transition: transform 0.3s ease;" />
+    <img src="https://img.shields.io/badge/-rohitgangwar97190@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" style="margin: 10px; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2); transition: transform 0.3s ease;" />
   </a>
 </div>
 
